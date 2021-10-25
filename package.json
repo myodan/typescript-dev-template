@@ -11,7 +11,7 @@
 		"dev": "ts-node-dev --respawn --transpile-only --clear ./src/index.ts"
 	},
 	"devDependencies": {
-		"@types/node": "^16.10.3",
+		"@types/node": "^16.11.4",
 		"@typescript-eslint/eslint-plugin": "^5.0.0",
 		"@typescript-eslint/parser": "^5.1.0",
 		"eslint": "^8.0.0",
